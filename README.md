@@ -6,7 +6,7 @@ Reference: Iess, L., Rappaport, N. J., Jacobson, R. A., Racioppa, P., Stevenson,
 
 MATLAB scripts
 
--- geoid.m: calculate and plot geoid based on the note #5 equation in Iess et al. (2010) paper
+-- geoid.m: calculate and plot Titan's geoid based on the note #5 equation in Iess et al. (2010) paper
 
 -- geoid_subtract.m: calculate geoid and subtract it from Cassini SARTopo data; save the processed topography data as sar_topo_Txx_s.txt format
 
