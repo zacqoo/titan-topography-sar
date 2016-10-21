@@ -14,4 +14,6 @@ Other files
 
 -- geoid.png: output image from executing geoid.m
 
+-- sar_topo_T08.txt: sample SARTopo data; Cassini T08 flyby swath
+
 Note: Cassini SARTopo datasets need to be converted to .txt format before importing. Only X, Y, Z columns are needed.
